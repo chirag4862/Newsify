@@ -1,6 +1,6 @@
 # newsify
 
-A new Flutter project.
+A cross-platform News app made using flutter. 
 
 ## Getting Started
 
