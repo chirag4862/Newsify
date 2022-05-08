@@ -1,6 +1,7 @@
 # newsify
 
 A cross-platform News app made using flutter. 
+![White Decorative Daily Vlog Youtube Thumbnail](https://user-images.githubusercontent.com/61591967/167291803-c3d2a71d-c6a9-4956-ba79-cf0cd983b792.png)
 
 ## Getting Started
 
